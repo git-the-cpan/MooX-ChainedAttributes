@@ -1,5 +1,5 @@
 package MooX::ChainedAttributes;
-$MooX::ChainedAttributes::VERSION = '0.03';
+$MooX::ChainedAttributes::VERSION = '0.04';
 use strictures 1;
 
 =head1 NAME
@@ -116,6 +116,16 @@ __END__
 =head1 AUTHOR
 
 Aran Clary Deltac <bluefeet@gmail.com>
+
+=head1 CONTRIBUTORS
+
+=over
+
+=item *
+
+Graham Knop <haarg@haarg.org>
+
+=back
 
 =head1 LICENSE
 
